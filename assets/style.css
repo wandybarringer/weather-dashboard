@@ -1,0 +1,18 @@
+html {
+  color-scheme: dark;
+}
+
+main {
+  display: flex;
+  justify-content: space-around;
+}
+
+.flex-row {
+  display: flex;
+  justify-content: space-around;
+}
+
+.forecast-card {
+  border: solid 2px white;
+  padding: 1rem;
+}
